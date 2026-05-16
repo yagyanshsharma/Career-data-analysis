@@ -1,5 +1,0 @@
-python
-pandas
-colab
-streamlit
-plotly
