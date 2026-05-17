@@ -2,6 +2,9 @@
 
 A beautiful, interactive data analysis dashboard built using **Streamlit** and **Plotly** to visualize GenZ career aspirations.
 
+## Note
+Interactive Plotly charts are not rendered in GitHub’s static notebook preview. For a full visualization experience please run the notebook on **Google Colab** or Check the website whose link is given below.
+
 🚀 **Live Website Link:** [👉 Click Here to Open Live Dashboard 👈](https://career-data-analysis-milef4ntbtbuwqddvxqyb3.streamlit.app/)
 
 ## 💡 Key Insights Captured
