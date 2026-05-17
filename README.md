@@ -1,6 +1,6 @@
 # 📌 GenZ Career Survey Dashboard
 
-A beautiful, interactive data analysis dashboard built using **Streamlit** and **Plotly** to visualize GenZ career aspirations.
+A beautiful, interactive data analysis dashboard built using **Plotly** to visualize GenZ career aspirations.
 
 ## Note
 Interactive Plotly charts are not rendered in GitHub’s static notebook preview. For a full visualization experience please run the notebook on **Google Colab** or Check the website whose link is given below.
